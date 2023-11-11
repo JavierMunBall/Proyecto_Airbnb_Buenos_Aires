@@ -1,7 +1,7 @@
 # Airbnb Buenos Aires
 
 ![Cover Image](cover.jpeg)
-#### https://www.lavanguardia.com/magazine/viajes/20220901/8477587/buenos-aires-septiembre-tango.html#foto-2 (Buenos Aires, Argentina AdonisVillanueva / Terceros)
+###### Fuente: https://www.lavanguardia.com/magazine/viajes/20220901/8477587/buenos-aires-septiembre-tango.html#foto-2 (Buenos Aires, Argentina AdonisVillanueva / Terceros)
 
 ## Descripción
 
